@@ -6,7 +6,7 @@
 <p align = "center">My name is Jordan (known as Jaoryx) and I have been programming since 2016.<br>Never have I loved anything more than creating fun projects and bringing ideas to life!</p>
 <br><br>
 
-- 🔭 I’m currently working on my **Quantum Bot** and **FiveM Development**.
+- 🔭 I’m currently working on my **Jaoryx Server Tool**.
 
 <br>
 
